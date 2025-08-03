@@ -104,6 +104,13 @@ Interactive visuals: Trend lines, KPIs, and filters
 Custom visuals: Hashtag performance and visitor insights
 Narrative callouts: Actionable insights embedded in visual reports
 
+## 📸 Dashboard Previews
+
+![Executive Summary](./assets/Screenshot-2025-08-03-182506.png)
+![Content Performance](./assets/Screenshot-2025-08-03-182537.png)
+![Followers](./assets/Screenshot-2025-08-03-182552.png)
+![Visitors](./assets/Screenshot-2025-08-03-182610.png)
+
 ## 8, Contact & Credits
 Created by Harmony Pham
 Inspired by internship work at Edventure Design
