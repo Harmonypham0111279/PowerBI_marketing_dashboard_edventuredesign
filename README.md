@@ -19,6 +19,7 @@ Key Tables in the Dashboard
 | VisitorMetrics  | Desktop/mobile views and visitors        | Date, Unique Visitors, Page Views                  |
 | HashtagMetrics  | Hashtag breakdowns per post              | Hashtag, Post Title                                |
 | Date            | Calendar table for filters/trends        | Date, Month, Weekday, Quarter                      |
+
 📌 Relationships are managed using one-to-many or one-to-one joins, centered around the unique Date and Post Title fields. 
 
 ## 3, Executive Summaries
