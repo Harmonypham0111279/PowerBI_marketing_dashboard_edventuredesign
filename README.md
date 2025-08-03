@@ -12,8 +12,8 @@ As a newly established firm, Edventure Design lacked a strong digital presence a
 Key Tables in the Dashboard
 
 | Table Name      | Description                              | Sample Fields                                      |
-|-----------------|------------------------------------------|---------------------------------------------------|
-| All Posts       | Content-level metrics by post            | Post Title, Post Date, Impressions, Engagement Rate |
+|-----------------|------------------------------------------|----------------------------------------------------|
+| All Posts       | Content-level metrics by post            | Post Title, Post Date, Impressions, Engagement Rate|
 | Metrics         | Daily platform metrics summary           | Impressions (Organic/Sponsored), Clicks, Reactions |
 | Followers       | New and total followers by date/location | Date, Sponsored Followers, Total Followers         |
 | VisitorMetrics  | Desktop/mobile views and visitors        | Date, Unique Visitors, Page Views                  |
@@ -43,7 +43,7 @@ Image-only posts underperformed (just 5.5% of impressions), signaling low visibi
 Platform Algorithms: LinkedIn prioritizes dwell-time formats (articles/carousels), improving reach and credibility—especially in B2B audiences.
 
 2. Post Timing Analysis
-| Day     | Impressions ↑   | Engagement Rate ↑         |
+| Day     | Impressions ↑    | Engagement Rate ↑          |
 |---------|------------------|----------------------------|
 | Tuesday | Highest reach    | Competitive rate           |
 | Friday  | Lower reach      | Highest engagement (4.5%)  |
@@ -56,8 +56,8 @@ Mobile-first optimization needed: carousel visuals currently in 16:6 ratio (desk
 
 4. Follower Composition Strategy
 
-| Attribute | Leading Segments             |
-|-----------|------------------------------|
+| Attribute | Leading Segments              |
+|-----------|-------------------------------|
 | Function  | Education, Communication      |
 | Industry  | Higher Education, EdTech      |
 | Seniority | Senior, Entry-Level           |
