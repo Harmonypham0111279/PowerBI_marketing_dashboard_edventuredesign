@@ -10,6 +10,7 @@ Context:
 As a newly established firm, Edventure Design lacked a strong digital presence and had minimal engagement on LinkedIn. The page had no historical benchmarks or baseline metrics, making it difficult to assess performance or plan growth. This project starts from scratch to build, analyze, and grow the studio’s visibility. It aims to define performance standards, validate what content resonates with the target audience, and guide future marketing decisions.
 
 📥 [Download my Power BI dashboard](https://drive.google.com/file/d/1fgWwlwA7OGkbP2N-_WKXW77vhZc01p9Z/view?usp=sharing)
+[See Dashboard here](https://app.powerbi.com/view?r=eyJrIjoiN2NiYjRhZmQtMWQ1Ny00N2I5LWE3OTUtNWM4NGJkZjc5YWViIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D)
 
 ## 2️, Data Structure Overview
 Key Tables in the Dashboard
